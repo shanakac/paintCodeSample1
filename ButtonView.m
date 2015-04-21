@@ -55,6 +55,7 @@
     //// Cleanup
     CGGradientRelease(gradient);
     CGColorSpaceRelease(colorSpace);
+    //Indika
 }
 
 @end
