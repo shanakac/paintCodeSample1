@@ -57,6 +57,7 @@
     CGColorSpaceRelease(colorSpace);
     //Indika
     //Indika2
+    //Indika3
 }
 
 @end
