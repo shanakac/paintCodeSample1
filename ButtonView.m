@@ -49,7 +49,7 @@
         CGContextRestoreGState(context);
     }
     
-    //testing GITHUB Add new comment 
+    //testing GITHUB Add new comment - shanaka
     
     //// Cleanup
     CGGradientRelease(gradient);
