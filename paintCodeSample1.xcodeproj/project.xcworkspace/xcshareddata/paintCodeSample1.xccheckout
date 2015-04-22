@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>3400D259-A2FB-4BDD-B49D-5693C7CE3A9C</string>
+=======
+	<string>3FE8F92B-379C-4DBF-B986-D5E6A0AE2A58</string>
+>>>>>>> FETCH_HEAD
 	<key>IDESourceControlProjectName</key>
 	<string>paintCodeSample1</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
