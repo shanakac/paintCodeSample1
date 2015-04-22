@@ -15,6 +15,7 @@
 // An empty implementation adversely affects performance during animation.
 - (void)drawRect:(CGRect)rect {
     // Drawing code
+ 
 }
 */
 
@@ -55,7 +56,7 @@
     //// Cleanup
     CGGradientRelease(gradient);
     CGColorSpaceRelease(colorSpace);
-    //Indika
+    //Indika Madhurya
     //shanaka testing 2
     //Indika2
     //Indika3
