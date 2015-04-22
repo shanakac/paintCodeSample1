@@ -55,10 +55,12 @@
     //// Cleanup
     CGGradientRelease(gradient);
     CGColorSpaceRelease(colorSpace);
-    //Indika
+    //Indika shanaka testing 1
     //shanaka testing 2
     //Indika2
     //Indika3 Shanaka
+    //Indika4
+
 }
 
 @end
