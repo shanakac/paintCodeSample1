@@ -68,6 +68,7 @@
 		5A0779151AD79A3D00AE5312 = {
 			isa = PBXGroup;
 			children = (
+				E61AEC3D1AE8E173006E5DAF /* Myclasses */,
 				5A07794A1AD79B1700AE5312 /* Classes */,
 				5A0779201AD79A3D00AE5312 /* paintCodeSample1 */,
 				5A07793D1AD79A3D00AE5312 /* paintCodeSample1Tests */,
@@ -149,6 +150,29 @@
 				5A0779501AD7A4E400AE5312 /* ButtonViewController.m */,
 			);
 			name = Controllers;
+			sourceTree = "<group>";
+		};
+		E61AEC3D1AE8E173006E5DAF /* Myclasses */ = {
+			isa = PBXGroup;
+			children = (
+				E61AEC3E1AE8E173006E5DAF /* Models */,
+				E61AEC3F1AE8E173006E5DAF /* ViewContollers */,
+			);
+			path = Myclasses;
+			sourceTree = "<group>";
+		};
+		E61AEC3E1AE8E173006E5DAF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		E61AEC3F1AE8E173006E5DAF /* ViewContollers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewContollers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -448,6 +472,7 @@
 				5A0779461AD79A3D00AE5312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5A0779471AD79A3D00AE5312 /* Build configuration list for PBXNativeTarget "paintCodeSample1Tests" */ = {
 			isa = XCConfigurationList;
@@ -456,6 +481,7 @@
 				5A0779491AD79A3D00AE5312 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
